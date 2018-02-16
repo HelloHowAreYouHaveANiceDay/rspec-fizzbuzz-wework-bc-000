@@ -8,5 +8,5 @@ def fizzbuzz(number)
   else
     nil
   
-  
+  return message
 end
