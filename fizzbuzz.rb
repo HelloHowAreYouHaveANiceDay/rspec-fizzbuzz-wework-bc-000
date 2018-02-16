@@ -1,6 +1,6 @@
 def fizzbuzz(number)
-  if number % 3
-    return "Fizz"
+  return if number % 3
+    "Fizz"
   else
     return nil
 end
